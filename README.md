@@ -2,7 +2,10 @@
 
 A modern, responsive web application for tracking project costs and expenses. Built with React and Firebase, this application provides a seamless experience for managing project budgets and expenses.
 
-![Project Cost Tracker](https://via.placeholder.com/800x400?text=Project+Cost+Tracker)
+## 🔗 Links
+
+- **Live Demo:** [Project Cost Tracker](https://karkhana-assignment-smoky.vercel.app/login)
+- **GitHub Repository:** [Karkhana-Assignment](https://github.com/Nikhilgup12/Karkhana-Assignment.git)
 
 ## 🌟 Features
 
@@ -16,6 +19,7 @@ A modern, responsive web application for tracking project costs and expenses. Bu
   - Add and manage additional expenses
   - Real-time cost calculations
   - Edit and delete functionality
+  - Sort items by name and cost
 
 - **Responsive Design**
   - Mobile-first approach
@@ -59,8 +63,8 @@ A modern, responsive web application for tracking project costs and expenses. Bu
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/yourusername/project-cost-tracker.git
-   cd project-cost-tracker
+   git clone https://github.com/Nikhilgup12/Karkhana-Assignment.git
+   cd Karkhana-Assignment
    ```
 
 2. Install dependencies
@@ -94,12 +98,14 @@ A modern, responsive web application for tracking project costs and expenses. Bu
 - Real-time cost calculations
 - Responsive grid layout
 - Mobile-friendly navigation
+- Sort functionality for items and costs
 
 ### Cost Management
 - Add, edit, and delete project items
 - Track additional costs
 - Real-time updates
 - Data persistence
+- Sort by name and cost
 
 ## 🔒 Security Features
 
@@ -127,9 +133,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Author
 
-Your Name
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourusername)
+Nikhil Gupta
+- GitHub: [@Nikhilgup12](https://github.com/Nikhilgup12)
+- LinkedIn: [Nikhil Gupta](https://linkedin.com/in/nikhilgup12)
 
 ## 🙏 Acknowledgments
 
